@@ -14,6 +14,11 @@ WealthWise is a modern, feature-rich financial health tracking application that 
 - **Smart Recommendations**: Receive personalized suggestions to improve your financial health
 - **Beautiful UI**: Enjoy a modern, responsive interface with dark theme and glass-morphism effects
 
+
+Screenshots - {https://ibb.co/qMcmsJTL   https://ibb.co/vCNRRMcW}
+
+
+
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
